@@ -5,6 +5,8 @@
 The Shop Smart App is a React application that allows users to manage their shopping lists. Users can add, remove, toggle the purchased status of items on the shopping list, and clear the entire list.
 The app also provides statistics on the total number of items and how many have been purchased.
 
+![react-shopSmart](https://github.com/user-attachments/assets/44c0f6cc-3bda-4c58-9f2e-f7b2bb477268)
+
 ## Features
 
 - **Add Items**: Users can add new items to their packing list.
@@ -24,6 +26,7 @@ The app also provides statistics on the total number of items and how many have 
 ## Installation
 
 1. Clone the repository:
+
 
    `git clone https://github.com/Bzkrtayse/react-shopSmart.git`
 
